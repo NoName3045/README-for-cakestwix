@@ -13,7 +13,9 @@
 <!-- Installation guide -->
 ## ⚙️ Інсталяція
 Скопіюйте посилання нижче і перейдіть в Додаток -> Параметри -> Розширення -> Додати репозиторій
+```
 https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json
+```
 
 <!-- Support -->
 ## ✅ Підтримка
